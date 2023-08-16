@@ -156,27 +156,24 @@ Use the project optimization checklist to determine how the project described mi
 ABC Corporation is a global technology company that offers a wide range of software solutions to clients in various industries. As the company continues to expand its offerings and reach, it faces the challenge of maintaining up-to-date and accurate legal and compliance documentation for its products and services. This includes terms of service, privacy policies, data processing agreements, and other legal agreements required to operate within different jurisdictions.
 
 <h4>Challenge:</h4>
-Creating and updating legal documents across different regions and services is a time-consuming process that involves legal experts and significant manual effort. The legal team at ABC Corporation wants to find a more efficient way to generate and maintain these documents while ensuring compliance with local laws and regulations.
+<p>Creating and updating legal documents across different regions and services is a time-consuming process that involves legal experts and significant manual effort. The legal team at ABC Corporation wants to find a more efficient way to generate and maintain these documents while ensuring compliance with local laws and regulations.</p>
 
-<h4>Solution:</h4>
-ABC Corporation decides to leverage prompt engineering to streamline the creation and updating of legal and compliance documentation.
+<details style="margin-bottom: 2.5rem;">
+<summary style="display: inline-block; background: #394a58; border: 1px solid #8A8B99; padding: 0.5rem 0.75rem; cursor: pointer;"><span style="color: #ffffff;">Example Solution</span></summary>
+<p style="padding-left: 40px;">“ABC Corporation decides to leverage prompt engineering to streamline the creation and updating of legal and compliance documentation.”</p>
+</details>
 
 <h3>XYZ Enterprises Scenario: Enhancing Content Generation</h3>
 <h4>Background:</h4>
 XYZ Enterprises is a rapidly growing e-commerce platform that offers a wide range of fashion products to customers worldwide. The company's marketing team is responsible for creating engaging and relevant content to attract and retain customers. However, with the increasing demand for fresh and diverse content across various channels, the marketing team is facing challenges in producing a high volume of content while maintaining brand consistency and quality.
 
 <h4>Challenge:</h4>
-The marketing team at XYZ Enterprises is struggling to meet the content demands of their audience across multiple platforms. They need to find a solution that allows them to generate a variety of marketing materials efficiently, including product descriptions, social media posts, email campaigns, and blog articles, while ensuring that the content resonates with the target audience and aligns with the brand's voice and messaging.
+<p>The marketing team at XYZ Enterprises is struggling to meet the content demands of their audience across multiple platforms. They need to find a solution that allows them to generate a variety of marketing materials efficiently, including product descriptions, social media posts, email campaigns, and blog articles, while ensuring that the content resonates with the target audience and aligns with the brand's voice and messaging.</p>
 
-<h4>Solution:</h4>
-XYZ Enterprises decides to leverage prompt engineering to streamline its content generation process and enhance the quality and relevance of its marketing materials.
-
-<h3>Sunrise Electronics Scenario: Optimizing Product Recommendations</h3>
-<h4>Background:</h4>
-Sunrise Electronics is a well-established retail chain specializing in consumer electronics and gadgets. With a wide range of products available both in physical stores and online, Sunrise Electronics aims to provide personalized shopping experiences to its customers. However, as the product catalog grows and customer preferences evolve, the company faces challenges in efficiently delivering relevant product recommendations to individual shoppers.
-
-<h4>Challenge:</h3>
-Sunrise Electronics wants to enhance its customer engagement and sales by offering tailored product recommendations to each shopper. However, manually curating personalized recommendations for every customer is time-consuming and prone to human bias. The company needs an automated solution that can generate accurate and appealing product suggestions based on individual preferences, purchase history, and browsing behavior.
+<details style="margin-bottom: 2.5rem;">
+<summary style="display: inline-block; background: #394a58; border: 1px solid #8A8B99; padding: 0.5rem 0.75rem; cursor: pointer;"><span style="color: #ffffff;">Example Solution</span></summary>
+<p style="padding-left: 40px;">“XYZ Enterprises decides to leverage prompt engineering to streamline its content generation process and enhance the quality and relevance of its marketing materials.”</p>
+</details>
 
 <h3>GlobalReach Corporation Scenario: Enhancing Global Communication</h3>
 
@@ -184,10 +181,13 @@ Sunrise Electronics wants to enhance its customer engagement and sales by offeri
 GlobalReach Corporation is a rapidly expanding e-commerce platform that offers a diverse range of products to customers worldwide. The company aims to provide a seamless shopping experience for customers from different linguistic and cultural backgrounds. However, ensuring accurate and contextually relevant translations for product listings, user reviews, and customer support materials across multiple languages is a complex and time-consuming process.
 
 <h4>Challenge:</h4>
-GlobalReach Corporation faces the challenge of effectively translating and localizing its content to cater to a global customer base. Manually translating and adapting content for various languages is resource-intensive and can lead to errors or misinterpretations. The company seeks an efficient and accurate solution that enables consistent and culturally sensitive language translation and localization.
+<p>GlobalReach Corporation faces the challenge of effectively translating and localizing its content to cater to a global customer base. Manually translating and adapting content for various languages is resource-intensive and can lead to errors or misinterpretations. The company seeks an efficient and accurate solution that enables consistent and culturally sensitive language translation and localization.
+</p>
 
-<h4>Solution:</h4>
-GlobalReach Corporation adopts prompt engineering to streamline its language translation and localization efforts, ensuring accurate and culturally relevant content for customers worldwide.
+<details style="margin-bottom: 2.5rem;">
+<summary style="display: inline-block; background: #394a58; border: 1px solid #8A8B99; padding: 0.5rem 0.75rem; cursor: pointer;"><span style="color: #ffffff;">Example Solution</span></summary>
+<p style="padding-left: 40px;">“GlobalReach Corporation adopts prompt engineering to streamline its language translation and localization efforts, ensuring accurate and culturally relevant content for customers worldwide.”</p>
+</details>
 
 <div id="fragment-6" style="overflow: auto:;">
 <h2>Summary</h2>
